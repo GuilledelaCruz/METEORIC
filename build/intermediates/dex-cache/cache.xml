@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/guilledelacruz/24984E1B984DEBBC/Mis cosicas/Proyectos/libGDX/Meteoric/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb7e397df5887efb06957a33b3e82415f92015c4">
+        <dex dex="/media/guilledelacruz/24984E1B984DEBBC/Mis cosicas/Proyectos/libGDX/Meteoric/android/build/intermediates/pre-dexed/release/core-1.0-4e53e54224ad8616a9b9ff7346cdddfd0e97cf32.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+m.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+comet-1
+  rotate: false
+  xy: 2, 2
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+comet-2
+  rotate: false
+  xy: 2, 100
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+comet-3
+  rotate: false
+  xy: 2, 198
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+comet-4
+  rotate: false
+  xy: 2, 296
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
